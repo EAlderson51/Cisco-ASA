@@ -1,0 +1,11 @@
+rommon #1> ADDRESS=192.168.1.10
+
+rommon #2> SERVER=192.168.1.1
+
+rommon #3> GATEWAY=192.168.1.1
+
+rommon #4> IMAGE=asa9-12-2-smp-k8.bin
+
+rommon #5> PORT=Ethernet0/0
+
+rommon #6> tftp
